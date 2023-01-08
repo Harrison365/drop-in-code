@@ -4,7 +4,7 @@ const obj = {
   "england captain": "Harry Kane",
 };
 
-//Change the King to Paul
+//Change the King to "Paul"
 //Add northcoder key with a value of Dave
 //Delete the england captian.
 
