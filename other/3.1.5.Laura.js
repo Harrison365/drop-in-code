@@ -9,7 +9,10 @@ const veg = [
 
 //create an array of names for index 2 and 5
 //we want ["Carrot" and "Runner Beans"]
+
 const names = [];
+names.push(veg[2].name);
+names.push(veg[5].name);
 
 console.log(names);
 
