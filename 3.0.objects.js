@@ -1,7 +1,7 @@
 const favourites = {
   character: "Lightning McQueen",
   "tv show": "The Simpsons",
-  emoji: "🐶",
+  emoji: "dog",
 };
 
 //character

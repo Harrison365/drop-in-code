@@ -8,6 +8,5 @@ const array = ["a", "b", "c"];
 
 //pop
 
-//function which pops final element and returns it with a '!'
-
 console.log(array);
+console.log(firstElement, lastElement);

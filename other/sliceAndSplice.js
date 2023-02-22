@@ -1,7 +1,8 @@
-let str = "Hello World :)";
+let str = "HelloWorld :)";
 let arr = [0, 1, 2, 3, 4, 5];
 
-console.log(str.slice(1, 4));
+//where to start, where to end -1
+// console.log(str.slice(1, 8));
 // console.log(arr.slice(1, 4));
 // console.log(str.slice(1));
 // console.log(str.slice(-1));
