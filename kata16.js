@@ -7,4 +7,4 @@ let obj2 = { plates: 2, cups: 1, forks: 1, partyHats: 4 };
 
 function party(object, number) {}
 
-// console.log(party(obj2, 4));
+// console.log(party(obj1, 5));
