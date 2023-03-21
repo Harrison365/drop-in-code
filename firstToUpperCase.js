@@ -10,5 +10,5 @@ function greetGuests2(name) {
   return newName;
 }
 
-console.log(greetGuests("babatunde"));
-console.log(greetGuests2("babatunde"));
+console.log(greetGuests("jacob"));
+console.log(greetGuests2("jacob"));
