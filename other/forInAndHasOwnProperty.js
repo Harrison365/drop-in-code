@@ -4,14 +4,8 @@ const mentor = {
   sex: "male",
 };
 
-// for (let property in mentor) {
-//   console.log(property + " = " + mentor[property]);
-// }
-
 for (let i in mentor) {
-  if (typeof mentor[property] === "number") {
-    console.log(property + " << look at this key");
-  }
+  console.log(i);
 }
 
 //HAS OWN PROPERTY

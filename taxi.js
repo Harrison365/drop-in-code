@@ -14,16 +14,8 @@ calculateTaxiFare(491);
 // should return 920
 */
 
-function taxiFare(seconds) {
-  let minutes = seconds / 60;
-  let roundedMins = Math.ceil(minutes);
+function taxiFare(seconds) {}
 
-  if (roundedMins <= 3) {
-    return 500;
-  } else {
-    return 500 + (roundedMins - 3) * 70;
-  }
-}
 console.log(taxiFare(150));
 console.log(taxiFare(360));
 console.log(taxiFare(491));
