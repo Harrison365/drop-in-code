@@ -1,4 +1,2 @@
 const words = ["dog", "spanner", "Jurgen", "Klopp", "cat", "iPhone"];
-// make an array with only words that are 3 letters long
-
-console.log();
+//Write a function which takes an array of strings and returns a count of the number of strings with more than 3 letters.
