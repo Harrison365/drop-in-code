@@ -4,14 +4,10 @@ const favourites = {
   emoji: "dog",
 };
 
-//character
+//Dot and ["Brackets"]
 console.log();
 
-//tv show
-console.log();
-
-//emoji
-
+//Variables
 const keyName = "emoji";
 
 console.log();
