@@ -23,15 +23,7 @@ pickWinners([1, 6, 13, 8, 29, 50])
 ```
 */
 
-function pickWinners(arr) {
-  const answer = [];
-  for (let i = 1; i < arr.length; i += 2) {
-    if (arr[i] % 2 !== 0) {
-      answer.push({ seat: i, ticketCost: arr[i] });
-    }
-  }
-  return answer;
-}
+function pickWinners(arr) {}
 
 console.log(pickWinners([6, 7, 12, 49]));
 console.log(pickWinners([1, 3, 5, 7, 9, 11]));
