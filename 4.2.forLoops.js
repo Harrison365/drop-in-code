@@ -6,3 +6,7 @@ const people = [
   { name: "Kev Junior", "favourite animal": "Dolphin" },
 ];
 //count the number of people called Kev
+
+function countKevs(arr) {}
+
+console.log(countKevs(people));

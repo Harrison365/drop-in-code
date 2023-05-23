@@ -8,14 +8,6 @@ const people = [
 
 //Does anyone like Dolphins? Write a function which returns an array of the names of those people who like dolphins.
 
-function whoLikesDolphins(array) {
-  const dolphinLovers = [];
-  for (let i = 0; i < array.length; i++) {
-    if (array[i]["favourite animal"] === "Sharks") {
-      dolphinLovers.push(array[i].name);
-    }
-  }
-  return dolphinLovers;
-}
+function whoLikesDolphins(array) {}
 
 console.log(whoLikesDolphins(people));
