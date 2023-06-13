@@ -5,7 +5,7 @@ const obj = {
 };
 
 //Change the King to "Paul"
-//Add northcoder key with a value of Dave
+//Add northcoder key with a value of "Dave"
 //Delete the england captian.
 
 console.log(obj);
