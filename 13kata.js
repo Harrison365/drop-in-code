@@ -13,13 +13,6 @@ makeGuestList({ name: "Paul Erdős", age: 46 });
 // should return { firstName: "Paul", lastName: "Erdős", age: 46 }
 Note: all other properties should remain unchanged. */
 
-function makeGuestList(obj) {
-  const arr = obj.name.split(" ");
-
-  obj.firstName = arr[0];
-  obj.lastName = arr[1];
-  delete obj.name;
-  return obj;
-}
+function makeGuestList(obj) {}
 
 console.log(makeGuestList({ name: "Paul Erdős", age: 46 }));
