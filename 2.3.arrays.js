@@ -2,7 +2,7 @@ const nintendoArray = [
   "Mario",
   "Luigi",
   ["Daisy", "Peach"],
-  ["Yoshi", ["Toad", "Warrio", "Waluigi", "Bowser"]],
+  ["Yoshi", ["Toad", "Wario", "Waluigi", "Bowser"]],
 ];
 
 let greenMan = "?";
