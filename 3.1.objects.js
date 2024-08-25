@@ -1,6 +1,6 @@
 const obj = {
   monarch: "King Charles III",
-  "prime minister": "Rishi Sunak",
+  "prime minister": "Keir Starmer",
   "england captain": "Harry Kane",
 };
 
